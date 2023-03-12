@@ -1,0 +1,133 @@
+{
+  "background_color": "#5e42a6",
+  "description": "Uma lista feita com base em opiniões sobre os melhores gachas em 2023, feita por Marcone Kaike como um projeto de coding.",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Projeto Lista Gachas",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "Lista Gachas",
+  "icons": [
+    {
+      "src": "assets/img/icons/icon_512.png",
+      "sizes": "512x512"
+    },
+    {
+      "src": "assets/img/icons/icon_192.png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "assets/img/icons/icon_144.png",
+      "sizes": "144x144"
+    },
+    {
+      "src": "assets/img/icons/icon_96.png",
+      "sizes": "96x96"
+    },
+    {
+      "src": "assets/img/icons/icon_72.png",
+      "sizes": "72x72"
+    },
+    {
+      "src": "assets/img/icons/icon_48.png",
+      "sizes": "48x48"
+    },
+    {
+      "src": "assets/img/icons/icon_16.png",
+      "sizes": "16x16"
+    },
+    {
+      "src": "assets/img/icons/icon_20.png",
+      "sizes": "20x20"
+    },
+    {
+      "src": "assets/img/icons/icon_29.png",
+      "sizes": "29x29"
+    },
+    {
+      "src": "assets/img/icons/icon_32.png",
+      "sizes": "32x32"
+    },
+    {
+      "src": "assets/img/icons/icon_40.png",
+      "sizes": "40x40"
+    },
+    {
+      "src": "assets/img/icons/icon_50.png",
+      "sizes": "50x50"
+    },
+    {
+      "src": "assets/img/icons/icon_57.png",
+      "sizes": "57x57"
+    },
+    {
+      "src": "assets/img/icons/icon_58.png",
+      "sizes": "58x58"
+    },
+    {
+      "src": "assets/img/icons/icon_60.png",
+      "sizes": "60x60"
+    },
+    {
+      "src": "assets/img/icons/icon_64.png",
+      "sizes": "64x64"
+    },
+    {
+      "src": "assets/img/icons/icon_76.png",
+      "sizes": "76x76"
+    },
+    {
+      "src": "assets/img/icons/icon_80.png",
+      "sizes": "80x80"
+    },
+    {
+      "src": "assets/img/icons/icon_87.png",
+      "sizes": "87x87"
+    },
+    {
+      "src": "assets/img/icons/icon_100.png",
+      "sizes": "100x100"
+    },
+    {
+      "src": "assets/img/icons/icon_114.png",
+      "sizes": "114x114"
+    },
+    {
+      "src": "assets/img/icons/icon_120.png",
+      "sizes": "120x120"
+    },
+    {
+      "src": "assets/img/icons/icon_128.png",
+      "sizes": "128x128"
+    },
+    {
+      "src": "assets/img/icons/icon_152.png",
+      "sizes": "152x152"
+    },
+    {
+      "src": "assets/img/icons/icon_167.png",
+      "sizes": "167x167"
+    },
+    {
+      "src": "assets/img/icons/icon_180.png",
+      "sizes": "180x180"
+    },
+    {
+      "src": "assets/img/icons/icon_256.png",
+      "sizes": "256x256"
+    },
+    {
+      "src": "assets/img/icons/icon_1024.png",
+      "sizes": "1024x1024"
+    }
+  ],
+  "start_url": "/index.html",
+  "theme_color": "#ffffff",
+  "categories": [
+    "entertainment",
+    "games"
+  ],
+  "screenshots": [],
+  "shortcuts": [],
+  "lang": "pt"
+}
