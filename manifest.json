@@ -10,119 +10,148 @@
   "icons": [
     {
       "src": "assets/img/icons/icon_512.png",
-      "sizes": "512x512"
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
     },
     {
       "src": "assets/img/icons/icon_192.png",
-      "sizes": "192x192"
+      "sizes": "192x192",
+      "type": "image/png"
     },
     {
       "src": "assets/img/icons/icon_144.png",
-      "sizes": "144x144"
+      "sizes": "144x144",
+      "type": "image/png"
     },
     {
       "src": "assets/img/icons/icon_96.png",
-      "sizes": "96x96"
+      "sizes": "96x96",
+      "type": "image/png"
     },
     {
       "src": "assets/img/icons/icon_72.png",
-      "sizes": "72x72"
+      "sizes": "72x72",
+      "type": "image/png"
     },
     {
       "src": "assets/img/icons/icon_48.png",
-      "sizes": "48x48"
+      "sizes": "48x48",
+      "type": "image/png"
     },
     {
       "src": "assets/img/icons/icon_16.png",
-      "sizes": "16x16"
+      "sizes": "16x16",
+      "type": "image/png"
     },
     {
       "src": "assets/img/icons/icon_20.png",
-      "sizes": "20x20"
+      "sizes": "20x20",
+      "type": "image/png"
     },
     {
       "src": "assets/img/icons/icon_29.png",
-      "sizes": "29x29"
+      "sizes": "29x29",
+      "type": "image/png"
     },
     {
       "src": "assets/img/icons/icon_32.png",
-      "sizes": "32x32"
+      "sizes": "32x32",
+      "type": "image/png"
     },
     {
       "src": "assets/img/icons/icon_40.png",
-      "sizes": "40x40"
+      "sizes": "40x40",
+      "type": "image/png"
     },
     {
       "src": "assets/img/icons/icon_50.png",
-      "sizes": "50x50"
+      "sizes": "50x50",
+      "type": "image/png"
     },
     {
       "src": "assets/img/icons/icon_57.png",
-      "sizes": "57x57"
+      "sizes": "57x57",
+      "type": "image/png"
     },
     {
       "src": "assets/img/icons/icon_58.png",
-      "sizes": "58x58"
+      "sizes": "58x58",
+      "type": "image/png"
     },
     {
       "src": "assets/img/icons/icon_60.png",
-      "sizes": "60x60"
+      "sizes": "60x60",
+      "type": "image/png"
     },
     {
       "src": "assets/img/icons/icon_64.png",
-      "sizes": "64x64"
+      "sizes": "64x64",
+      "type": "image/png"
     },
     {
       "src": "assets/img/icons/icon_76.png",
-      "sizes": "76x76"
+      "sizes": "76x76",
+      "type": "image/png"
     },
     {
       "src": "assets/img/icons/icon_80.png",
-      "sizes": "80x80"
+      "sizes": "80x80",
+      "type": "image/png"
     },
     {
       "src": "assets/img/icons/icon_87.png",
-      "sizes": "87x87"
+      "sizes": "87x87",
+      "type": "image/png"
     },
     {
       "src": "assets/img/icons/icon_100.png",
-      "sizes": "100x100"
+      "sizes": "100x100",
+      "type": "image/png"
     },
     {
       "src": "assets/img/icons/icon_114.png",
-      "sizes": "114x114"
+      "sizes": "114x114",
+      "type": "image/png"
     },
     {
       "src": "assets/img/icons/icon_120.png",
-      "sizes": "120x120"
+      "sizes": "120x120",
+      "type": "image/png"
     },
     {
       "src": "assets/img/icons/icon_128.png",
-      "sizes": "128x128"
+      "sizes": "128x128",
+      "type": "image/png"
     },
     {
       "src": "assets/img/icons/icon_152.png",
-      "sizes": "152x152"
+      "sizes": "152x152",
+      "type": "image/png"
     },
     {
       "src": "assets/img/icons/icon_167.png",
-      "sizes": "167x167"
+      "sizes": "167x167",
+      "type": "image/png"
     },
     {
       "src": "assets/img/icons/icon_180.png",
-      "sizes": "180x180"
+      "sizes": "180x180",
+      "type": "image/png"
     },
     {
       "src": "assets/img/icons/icon_256.png",
-      "sizes": "256x256"
+      "sizes": "256x256",
+      "type": "image/png"
     },
     {
       "src": "assets/img/icons/icon_1024.png",
-      "sizes": "1024x1024"
+      "sizes": "1024x1024",
+      "type": "image/png"
     }
   ],
-  "start_url": "/index.html",
-  "theme_color": "#ffffff",
+  "start_url": "/",
+  "theme_color": "#312450",
   "categories": [
     "entertainment",
     "games"
